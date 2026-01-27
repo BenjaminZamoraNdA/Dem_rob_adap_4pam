@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/nueva8pam.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>65536</length>
+      <used>26780</used>
+      <free>38756</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>524284</length>
+      <used>22136</used>
+      <free>502148</free>
+    </memory>
+  </executable>
+</project>
